@@ -11,3 +11,6 @@
 3.  Run the script.
 4.  After typing the number of HJs to aim for, move to Roblox and click on the chatbox then wait for the script to start.
 5. Refrain from typing or moving too much while the program is running.
+
+
+You can move your mouse to the top left of your screen in-order to force the program to crash, therfore stop.
